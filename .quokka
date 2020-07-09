@@ -1,0 +1,6 @@
+{
+  "babel": {
+    "ts": true,
+    "presets": ["babel-preset-gatsby", "@babel/preset-typescript"]
+  }
+}
